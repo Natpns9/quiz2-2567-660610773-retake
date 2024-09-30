@@ -22,9 +22,7 @@ export default function Comment({
             className="rounded rounded-3 p-2"
             style={{ backgroundColor: "#3A3B3C" }}
           >
-            <span className="fw-semibold" style={{ color: "#E4E6EB" }}>
-              Lisa
-            </span>
+            <span className="fw-semibold" style={{ color: "#E4E6EB" }}>Lisa</span>
             <br />
             <span style={{ color: "#E4E6EB" }}>จริงค่า</span>
             <div className="d-flex align-items-center gap-1">

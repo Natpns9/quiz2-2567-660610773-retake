@@ -46,7 +46,7 @@ export default function Home() {
         </div>
 
         {/* Reply Example */}
-        <Reply/>
+      
         <div className="d-flex gap-2 my-2 ps-5">
           <img
             src="/profileImages/puppy.jpg"
